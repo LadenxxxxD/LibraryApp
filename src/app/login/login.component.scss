@@ -1,0 +1,33 @@
+.form-horizontal {
+  width: 500px;
+  margin: auto;
+  margin-top: 240px;
+  border: 2px solid #52cfe6;
+  border-radius: 5px;
+  padding: 18px;
+
+  .btn {
+    width: 140px;
+    margin-right: 20px;
+    outline: none;
+  }
+
+  .usernameValidation {
+    font-size: 20px;
+    color: #00ccff;
+    padding: 7px 24px 0;
+  }
+
+  .passwordValidation {
+    font-size: 20px;
+    color: #00ccff;
+    padding: 7px 24px 0;
+  }
+}
+
+.error {
+  font-size: 25px;
+  color: #52cfe6;
+  padding: 25px;
+  text-align: center;
+}
